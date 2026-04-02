@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Data (large files)
+data/raw/
+data/indexes/
+data/processed/*.json
+data/processed/*.npz
+*.npz
+*.pkl
+*.h5
+
+# Logs & outputs
+*.log
+*.out
+*.err
+
+# Models
+models/
+.cache/
+
+# Temporary
+tmp/
+*.tmp
+
+# Not tracked
+*.pdf
+*.tex
+hpc/
+results/
+notebooks/
+dev_notes/

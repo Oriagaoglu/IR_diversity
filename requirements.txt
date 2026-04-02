@@ -1,0 +1,12 @@
+python-terrier
+sentence-transformers
+transformers
+datasets
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+jupyter
